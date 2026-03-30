@@ -194,7 +194,7 @@ if (menu == 5) {
 } //PARTE 5 DO MENUZÃO FERA D+++++
 
             }
-                           //PARTE 6 DO MENUZÃO FERA D+++++
+                           //PARTE 6 DO MENUZÃO FERA D++++++
                 if (menu == 6) {
     System.out.print("Nome da nova sala: ");
     nomedasalachefe[Salaext] = ler.next();
@@ -210,7 +210,7 @@ if (menu == 5) {
 
     Salaext++;
     System.out.println("Sala criada com sucesso!");
-} //PARTE 6 DO MENUZÃO FERA D+++++
+} //PARTE 6 DO MENUZÃO FERA D++++++
         } while (menu != 0);
 
         ler.close();
